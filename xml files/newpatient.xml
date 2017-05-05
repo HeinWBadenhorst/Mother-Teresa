@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<TERESAMENU VERSION="001" >
+	<MENUITEM NAME="Current Complaints" ICON="maincomplaint.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<METHODNAME VALUE="capturePatientHistoryNew"/>
+	</MENUITEM>
+	<MENUITEM NAME="Systemic Enquiry" ICON="systemic.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="24,25">
+		<METHODNAME VALUE="captureSystemic"/>
+	</MENUITEM>
+	<MENUITEM NAME="Previous Medical History" ICON="medicalhistory.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="18,19">
+		<METHODNAME VALUE="capturePreviousMedicalHistory"/>
+	</MENUITEM>
+	<MENUITEM NAME="Previous Surgical History" ICON="surgicalhistory.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="20,21">
+		<METHODNAME VALUE="capturePreviousSurgicalHistory"/>
+	</MENUITEM>
+	<MENUITEM NAME="Family History" ICON="familyhistory.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="9,10">
+		<METHODNAME VALUE="captureFamilyHistory"/>
+	</MENUITEM>
+	<MENUITEM NAME="Social History" ICON="socialhistory.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="22,23">
+		<METHODNAME VALUE="captureSocialHistory"/>
+	</MENUITEM>
+	<MENUITEM NAME="Occupational History" ICON="workhistory.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="14,15">
+		<METHODNAME VALUE="captureOccupationalHistory"/>
+	</MENUITEM>
+	<MENUITEM NAME="Treatment History" ICON="treatment.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<METHODNAME VALUE="capturePatientTreatment"/>
+	</MENUITEM>
+	<MENUITEM NAME="Allergy History" ICON="allergy.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<METHODNAME VALUE="capturePatientAllergies"/>
+	</MENUITEM>
+	<MENUITEM NAME="Travel History" ICON="travelhistory.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<METHODNAME VALUE="captureTravelHistory"/>
+	</MENUITEM>
+	<MENUITEM NAME="Examination" ICON="examination.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="7,8">
+		<METHODNAME VALUE="captureExamination"/>
+	</MENUITEM>
+	<MENUITEM NAME="Assesment" ICON="assessment.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="2,3">
+		<METHODNAME VALUE="captureAssesment"/>
+	</MENUITEM>
+	<MENUITEM NAME="Treatment" ICON="plan.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<METHODNAME VALUE="capturePlanTreatment"/>
+	</MENUITEM>
+</TERESAMENU>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<TERESAMENU VERSION="001" >
+	<MENUITEM NAME="Current Status" ICON="assessment.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<METHODNAME VALUE="displayPatientCurrentStatus"/>
+	</MENUITEM>
+	<MENUITEM NAME="New Complaints" ICON="maincomplaint.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<METHODNAME VALUE="captureNewComplaints"/>
+	</MENUITEM>
+	<MENUITEM NAME="Examination" ICON="examination.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<METHODNAME VALUE="captureFollowUpExamination"/>
+	</MENUITEM>
+	<MENUITEM NAME="Assesment" ICON="assessment.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<METHODNAME VALUE="captureFollowUpAssesment"/>
+	</MENUITEM>
+	<MENUITEM NAME="Treatment" ICON="plan.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<METHODNAME VALUE="captureFollowUpPlanTreatment"/>
+	</MENUITEM>
+</TERESAMENU>

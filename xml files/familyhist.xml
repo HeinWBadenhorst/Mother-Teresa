@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<TERESAMENU VERSION="001" >
+	<MENUITEM NAME="Father" ICON="father.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<METHODNAME VALUE="captureFamilyHistoryFather"/>
+	</MENUITEM>
+	<MENUITEM NAME="Mother" ICON="mother.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<METHODNAME VALUE="captureFamilyHistoryMother"/>
+	</MENUITEM>
+	<MENUITEM NAME="Siblings" ICON="siblings.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<METHODNAME VALUE="captureFamilyHistorySiblings"/>
+	</MENUITEM>
+	<MENUITEM NAME="Children" ICON="children.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<METHODNAME VALUE="captureFamilyHistoryChildren"/>
+	</MENUITEM>
+</TERESAMENU>

@@ -1,0 +1,262 @@
+<?xml version="1.0"?>
+<TERESAMENU VERSION="001" >
+	<MENUITEM NAME="Constitutional" ICON="constitutional.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<METHODNAME VALUE="captureConstitutional"/>
+	</MENUITEM>
+	<MENUITEM NAME="Cardiovascular" ICON="cardiovascular.gif" TYPE="LINK" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<MENUITEM NAME="Palpitations" ICON="cardiovascular_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="capturePalpitations"/>
+		</MENUITEM>
+		<MENUITEM NAME="Chest Pain" ICON="cardiovascular_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureChestPain"/>
+		</MENUITEM>
+		<MENUITEM NAME="Dyspnea" ICON="cardiovascular_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureDyspnea"/>
+		</MENUITEM>
+		<MENUITEM NAME="Claudication" ICON="cardiovascular_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureClaudication"/>
+		</MENUITEM>
+		<MENUITEM NAME="Leg Swelling" ICON="cardiovascular_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureLegSwelling"/>
+		</MENUITEM>
+	</MENUITEM>
+	<MENUITEM NAME="Respiratory" ICON="respiratory.gif" TYPE="LINK" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<MENUITEM NAME="Dyspnea" ICON="respiratory_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureRespDyspnea"/>
+		</MENUITEM>
+		<MENUITEM NAME="Chest Pain" ICON="respiratory_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureRespChestPain"/>
+		</MENUITEM>
+		<MENUITEM NAME="Chest Tightness" ICON="respiratory_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureRespChestTightness"/>
+		</MENUITEM>
+		<MENUITEM NAME="Coughing" ICON="respiratory_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureRespCoughing"/>
+		</MENUITEM>
+	</MENUITEM>
+	<MENUITEM NAME="Abdomen" ICON="abdominal.gif" TYPE="LINK" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<MENUITEM NAME="Nausea" ICON="abdominal_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureAbdNausea"/>
+		</MENUITEM>
+		<MENUITEM NAME="Vomiting" ICON="abdominal_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureAbdVomiting"/>
+		</MENUITEM>
+		<MENUITEM NAME="Diarrhea" ICON="abdominal_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureAbdDiarrhea"/>
+		</MENUITEM>
+		<MENUITEM NAME="Constipation" ICON="abdominal_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureAbdConstipation"/>
+		</MENUITEM>
+		<MENUITEM NAME="Abdominal Pain" ICON="abdominal_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureAbdominalPain"/>
+		</MENUITEM>
+		<MENUITEM NAME="Tenesmus" ICON="abdominal_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureAbdTenesmus"/>
+		</MENUITEM>
+		<MENUITEM NAME="Rectal Prolapse" ICON="abdominal_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureAbdRectalProlapse"/>
+		</MENUITEM>
+		<MENUITEM NAME="Hematemesis" ICON="abdominal_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureAbdHematemesis"/>
+		</MENUITEM>
+		<MENUITEM NAME="Blood Per Rectum" ICON="abdominal_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureAbdBloodPerRectum"/>
+		</MENUITEM>
+		<MENUITEM NAME="Jaundice" ICON="abdominal_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureAbdJaundice"/>
+		</MENUITEM>
+	</MENUITEM>
+	<MENUITEM NAME="Musculoskeletal" ICON="muskuloskeletal.gif" TYPE="LINK" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<MENUITEM NAME="Joint Pains" ICON="muskuloskeletal_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureMSJointPains"/>
+		</MENUITEM>
+		<MENUITEM NAME="Joint Swellings" ICON="muskuloskeletal_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureMSJointSwellings"/>
+		</MENUITEM>
+		<MENUITEM NAME="Muscle Pains" ICON="muskuloskeletal_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureMSMusclePains"/>
+		</MENUITEM>
+		<MENUITEM NAME="Spinal Pains" ICON="muskuloskeletal_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureMSSpinalPains"/>
+		</MENUITEM>
+		<MENUITEM NAME="Extra-articular Associations" ICON="muskuloskeletal_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureMSExtraArticular"/>
+		</MENUITEM>
+		<MENUITEM NAME="Joint Deformity" ICON="muskuloskeletal_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureMSJointDeformity"/>
+		</MENUITEM>
+		<MENUITEM NAME="Other" ICON="muskuloskeletal_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureMSOtherMusculoskeletal"/>
+		</MENUITEM>
+	</MENUITEM>
+	<MENUITEM NAME="Central Nervous System" ICON="cnsexam.gif" TYPE="LINK" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<MENUITEM NAME="Headache" ICON="cnsexam_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureCNSHeadache"/>
+		</MENUITEM>
+		<MENUITEM NAME="Neck Stiffness" ICON="cnsexam_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureCNSNeckStiffness"/>
+		</MENUITEM>
+		<MENUITEM NAME="Motor Defecit" ICON="cnsexam_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureCNSMotorDefecit"/>
+		</MENUITEM>
+		<MENUITEM NAME="Sensory And Cranial Nerve Defecit" ICON="cnsexam_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureCNSSAndCNerveDefecit"/>
+		</MENUITEM>
+		<MENUITEM NAME="Cerebellar Defecit" ICON="cnsexam_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureCNSCerebellarDefecit"/>
+		</MENUITEM>
+		<MENUITEM NAME="Gait Defecit" ICON="cnsexam_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureCNSGaitDefecit"/>
+		</MENUITEM>
+		<MENUITEM NAME="Incontinance" ICON="cnsexam_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureCNSIncontinance"/>
+		</MENUITEM>
+		<MENUITEM NAME="Short Term Memory Loss" ICON="cnsexam_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureCNSSTMemoryLoss"/>
+		</MENUITEM>
+		<MENUITEM NAME="Loss Of Conciousness" ICON="cnsexam_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureCNSLossOfConciousness"/>
+		</MENUITEM>
+		<MENUITEM NAME="Convultions" ICON="cnsexam_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureCNSConvultions"/>
+		</MENUITEM>
+		<MENUITEM NAME="Dizzy Spells" ICON="cnsexam_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureCNSDizzySpells"/>
+		</MENUITEM>
+		<MENUITEM NAME="Higher Function Abnormalities" ICON="cnsexam_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureCNSHigherFunctionAbnormalities"/>
+		</MENUITEM>
+	</MENUITEM>
+	<MENUITEM NAME="Ear Nose Throat" ICON="earnosethroat.gif" TYPE="LINK" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<MENUITEM NAME="Sore Throat" ICON="earnosethroat_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureENTSoreThroat"/>
+		</MENUITEM>
+		<MENUITEM NAME="Post Nasal Drip" ICON="earnosethroat_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureENTPostNasalDrip"/>
+		</MENUITEM>
+		<MENUITEM NAME="Dysphagia" ICON="earnosethroat_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureENTDysphagia"/>
+		</MENUITEM>
+		<MENUITEM NAME="Hoarse Voice" ICON="earnosethroat_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureENTHoarseVoice"/>
+		</MENUITEM>
+		<MENUITEM NAME="Throat Swelling" ICON="earnosethroat_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureENTThroatSwelling"/>
+		</MENUITEM>
+		<MENUITEM NAME="Snoring" ICON="earnosethroat_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureENTSnoring"/>
+		</MENUITEM>
+		<MENUITEM NAME="Blocked Nose" ICON="earnosethroat_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureENTBlockedNose"/>
+		</MENUITEM>
+		<MENUITEM NAME="Sinus Pains" ICON="earnosethroat_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureENTSinusPains"/>
+		</MENUITEM>
+		<MENUITEM NAME="Nose Bleed" ICON="earnosethroat_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureENTNoseBleed"/>
+		</MENUITEM>
+		<MENUITEM NAME="Sneezing" ICON="earnosethroat_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureENTSneezing"/>
+		</MENUITEM>
+		<MENUITEM NAME="Rhinorrhoea" ICON="earnosethroat_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureENTRhinorrhoea"/>
+		</MENUITEM>
+		<MENUITEM NAME="Ear-Ache" ICON="earnosethroat_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureENTEarAche"/>
+		</MENUITEM>
+		<MENUITEM NAME="Ear-Discharge" ICON="earnosethroat_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureENTEarDischarge"/>
+		</MENUITEM>
+		<MENUITEM NAME="Deafness" ICON="earnosethroat_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureENTDeafness"/>
+		</MENUITEM>
+		<MENUITEM NAME="Tinnitus" ICON="earnosethroat_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureENTTinnitus"/>
+		</MENUITEM>
+		<MENUITEM NAME="Vertigo" ICON="earnosethroat_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureENTVertigo"/>
+		</MENUITEM>
+	</MENUITEM>
+	<MENUITEM NAME="Dermatological" ICON="dermatological.gif" TYPE="LINK" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<MENUITEM NAME="Rash" ICON="dermatological_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureDermaRash"/>
+		</MENUITEM>
+		<MENUITEM NAME="Ulcers" ICON="dermatological_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureDermaUlcers"/>
+		</MENUITEM>
+		<MENUITEM NAME="Vitiligo" ICON="dermatological_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureDermaVitiligo"/>
+		</MENUITEM>
+		<MENUITEM NAME="Allopecia" ICON="dermatological_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureDermaAllopecia"/>
+		</MENUITEM>
+		<MENUITEM NAME="Petechiae" ICON="dermatological_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureDermaPetechiae"/>
+		</MENUITEM>
+		<MENUITEM NAME="Purpera" ICON="dermatological_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureDermaPurpera"/>
+		</MENUITEM>
+	</MENUITEM>
+	<MENUITEM NAME="Hematological" ICON="hematological.gif" TYPE="LINK" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<MENUITEM NAME="Petechiae." ICON="hematological_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureHemPetechiae"/>
+		</MENUITEM>
+		<MENUITEM NAME="Purpera." ICON="hematological_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureHemPurpera"/>
+		</MENUITEM>
+	</MENUITEM>
+	<MENUITEM NAME="Eyes" ICON="eyes.gif" TYPE="LINK" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<MENUITEM NAME="Loss Of Vision" ICON="eyes_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureEyesLossOfVision"/>
+		</MENUITEM>
+		<MENUITEM NAME="Red Eye" ICON="eyes_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureEyesRedEye"/>
+		</MENUITEM>
+		<MENUITEM NAME="Discharge." ICON="eyes_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureEyesDischarge"/>
+		</MENUITEM>
+		<MENUITEM NAME="Pain" ICON="eyes_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureEyesPain"/>
+		</MENUITEM>
+		<MENUITEM NAME="Diplopia" ICON="eyes_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureEyesDiplopia"/>
+		</MENUITEM>
+	</MENUITEM>
+	<MENUITEM NAME="Urogenital" ICON="urogenital.gif" TYPE="LINK" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<MENUITEM NAME="Incontinance." ICON="urogenital_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureUGIncontinance"/>
+		</MENUITEM>
+		<MENUITEM NAME="Urine Retention" ICON="urogenital_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureUGUrineRetention"/>
+		</MENUITEM>
+		<MENUITEM NAME="Dysuria" ICON="urogenital_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureUGDysuria"/>
+		</MENUITEM>
+		<MENUITEM NAME="Discharge" ICON="urogenital_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureUGDischarge"/>
+		</MENUITEM>
+		<MENUITEM NAME="Bleeding" ICON="urogenital_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureUGBleeding"/>
+		</MENUITEM>
+	</MENUITEM>
+	<MENUITEM NAME="Endocrine" ICON="endocrine.gif" TYPE="LINK" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<MENUITEM NAME="Thyroid" ICON="endocrine_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureEndoThyroid"/>
+		</MENUITEM>
+		<MENUITEM NAME="Adrenal Gland" ICON="endocrine_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureAdrenalGland"/>
+		</MENUITEM>
+		<MENUITEM NAME="Pituitary Gland" ICON="endocrine_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="capturePituitaryGland"/>
+		</MENUITEM>
+		<MENUITEM NAME="Parathyroids" ICON="endocrine_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureParathyroids"/>
+		</MENUITEM>
+		<MENUITEM NAME="Pancreas" ICON="endocrine_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="capturePancreas"/>
+		</MENUITEM>
+		<MENUITEM NAME="Gonads" ICON="endocrine_sm.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+			<METHODNAME VALUE="captureGonads"/>
+		</MENUITEM>
+	</MENUITEM>
+</TERESAMENU>

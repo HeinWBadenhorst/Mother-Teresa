@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<TERESAMENU VERSION="001" >
+	<MENUITEM NAME="General" ICON="constitutional.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<METHODNAME VALUE="captureExamGeneral"/>
+	</MENUITEM>
+	<MENUITEM NAME="Cardiovascular" ICON="cardiovascular.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<METHODNAME VALUE="captureExamCardiovascular"/>
+	</MENUITEM>
+	<MENUITEM NAME="Respiratory" ICON="respiratory.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<METHODNAME VALUE="captureExamRespiratory"/>
+	</MENUITEM>
+	<MENUITEM NAME="Abdomen" ICON="abdominal.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<METHODNAME VALUE="captureExamAbdomen"/>
+	</MENUITEM>
+	<MENUITEM NAME="Musculoskeletal" ICON="muskuloskeletal.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<METHODNAME VALUE="captureExamMusculoskeletal"/>
+	</MENUITEM>
+	<MENUITEM NAME="Central Nervous System" ICON="cnsexam.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<METHODNAME VALUE="captureExamCentralNervousSystem"/>
+	</MENUITEM>
+	<MENUITEM NAME="Ear Nose Throat" ICON="earnosethroat.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<METHODNAME VALUE="captureExamEarNoseThroat"/>
+	</MENUITEM>
+	<MENUITEM NAME="Dermatological" ICON="dermatological.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<METHODNAME VALUE="captureExamDermatological"/>
+	</MENUITEM>
+	<MENUITEM NAME="Hematological" ICON="hematological.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<METHODNAME VALUE="captureExamHematological"/>
+	</MENUITEM>
+	<MENUITEM NAME="Eyes" ICON="eyes.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<METHODNAME VALUE="captureExamEyes"/>
+	</MENUITEM>
+	<MENUITEM NAME="Urogenital" ICON="urogenital.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<METHODNAME VALUE="captureExamUrogenital"/>
+	</MENUITEM>
+	<MENUITEM NAME="Endocrine" ICON="endocrine.gif" TYPE="METHOD" MENUPOS="LEFT" UPDATENUMBER="-1">
+		<METHODNAME VALUE="captureExamEndocrine"/>
+	</MENUITEM>
+</TERESAMENU>
+

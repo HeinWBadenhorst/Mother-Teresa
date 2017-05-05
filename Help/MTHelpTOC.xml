@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='ISO-8859-1'  ?>
+<!DOCTYPE toc
+  PUBLIC "-//Valkyrie Medical Systems.//DTD JavaHelp TOC Version 2.0//EN"
+         "../dtd/toc_2_0.dtd">
+<toc version="2.0">
+<tocitem text="Mother Teres@ Help Topics" image="mttoplevelfolder">
+
+   <tocitem text="Introduction to Mother Teres@ Online Help" target="intro.intro" image="intro.introicon"/>
+
+   <tocitem text="Security in Mother Teres@" target="security.starttoc">
+       <tocitem text="Logging In to Mother Teres@" target="security.login" image="security.loginicon"/>
+       <tocitem text="Encrypted Database" target="security.dbencryption" image="security.encrypticon"/>
+   </tocitem>
+
+   <tocitem text="Navigating in Mother Teres@" target="nav.starttoc">
+       <tocitem text="Skip Button Use" target="nav.skipbutton" image="nav.skipicon"/>
+       <tocitem text="Menu Item Colours Explained" target="nav.colours" image="nav.colouricon"/>
+   </tocitem>
+
+   <tocitem text="Menus">
+      <tocitem text="Patient" target="patient.starttoc">
+          <tocitem text="Create New" target="patient.createnew" image="patient.newicon"/>
+          <tocitem text="Followup" target="patient.followup" image="patient.fuicon"/>
+          <tocitem text="End Capture" target="patient.endcapture" image="patient.endcapicon"/>
+          <tocitem text="Cancel Capture" target="patient.cancelcapture" image="patient.cancelcapicon"/>
+          <tocitem text="Exit" target="patient.exit" image="patient.exiticon"/>
+      </tocitem>
+      <tocitem text="Tools" target="tools.starttoc">
+          <tocitem text="Diagnostic Aid" target="tools.diagaid" image="tools.diagaidicon"/>
+      </tocitem>
+      <tocitem text="Options" target="options.starttoc">
+          <tocitem text="Look and Feel" target="options.lookandfeel" image="options.lookfeelicon"/>
+      </tocitem>
+      <tocitem text="Help" target="help.starttoc">
+          <tocitem text="About" target="help.about" image="help.about.icon"/>
+          <tocitem text="License Agreement" target="help.lic" image="help.agree.icon"/>
+      </tocitem>
+   </tocitem>
+
+   <tocitem text="Toolbars" target="toolbar.starttoc">
+      <tocitem text="New Patient" target="toolbar.newpatient">
+        <tocitem text="Current Complaints" target="toolbar.curcomplaint" image="curcomplaint"/>
+        <tocitem text="Systemic Enquiry" target="toolbar.systemic" image="systemic"/>
+        <tocitem text="Previous Medical History" target="toolbar.prevmedhis" image="prevmedhis"/>
+        <tocitem text="Previous Surgical History" target="toolbar.prevsurhis" image="prevsurhis"/>
+        <tocitem text="Family History" target="toolbar.famhis" image="famhis"/>
+        <tocitem text="Social History" target="toolbar.sochis" image="sochis"/>
+        <tocitem text="Occupational History" target="toolbar.occhis" image="occhis"/>
+        <tocitem text="Treatment History" target="toolbar.treathis" image="treathis"/>
+        <tocitem text="Allergy History" target="toolbar.allerhis" image="allerhis"/>
+        <tocitem text="Travel History" target="toolbar.travhis" image="travhis"/>
+        <tocitem text="Examination" target="toolbar.exam" image="exam">
+            <tocitem text="General" target="toolbar.exam.general" image="exam.general"/>
+            <tocitem text="Cardiovascular" target="toolbar.exam.cardio" image="exam.cardio"/>
+            <tocitem text="Respiratory" target="toolbar.exam.resp" image="exam.resp"/>
+            <tocitem text="Abdominal" target="toolbar.exam.abd" image="exam.abd"/>
+            <tocitem text="Musculoskeletal" target="toolbar.exam.muscu" image="exam.muscu"/>
+            <tocitem text="CNS" target="toolbar.exam.cns" image="exam.cns"/>
+            <tocitem text="ENT" target="toolbar.exam.ent" image="exam.ent">
+                <tocitem text="ENT Ear" target="toolbar.exam.entear" image="exam.entearicon"/>
+                <tocitem text="ENT Nose" target="toolbar.exam.entnose" image="exam.entnoseicon"/>
+                <tocitem text="ENT Sinuses" target="toolbar.exam.entsinus" image="exam.entsinusicon"/>
+                <tocitem text="ENT Throat" target="toolbar.exam.entthroat" image="exam.entthroaticon"/>
+            </tocitem>
+            <tocitem text="Dermatological" target="toolbar.exam.derma" image="exam.derma"/>
+            <tocitem text="Hematological" target="toolbar.exam.hema" image="exam.hema"/>
+            <tocitem text="Eyes" target="toolbar.exam.eyes" image="exam.eyes"/>
+            <tocitem text="Urogenital" target="toolbar.exam.urog" image="exam.urog">
+                <tocitem text="Male" target="toolbar.exam.urog.male" image="exam.urog.male"/>
+                <tocitem text="Female" target="toolbar.exam.urog.female" image="exam.urog.female"/>
+                <tocitem text="Urine" target="toolbar.exam.urog.urine" image="exam.urog.urine"/>
+            </tocitem>    
+            <tocitem text="Endocrine" target="toolbar.exam.endo" image="exam.endo"/>
+        </tocitem>    
+        <tocitem text="Assesment" target="toolbar.asses" image="asses"/>
+        <tocitem text="Plan" target="toolbar.plan" image="plan"/>
+        <tocitem text="Rife" target="toolbar.rifenew" image="rife"/>
+      </tocitem>
+      <tocitem text="Follow Up Patient" target="toolbar.fupatient">
+        <tocitem text="Current Status" target="toolbar.curstat" image="curstat"/>
+        <tocitem text="New Complaints" target="toolbar.newcomp" image="newcomp"/>
+        <tocitem text="Examination" target="toolbar.fuexam" image="fuexam"/>
+        <tocitem text="Assesment" target="toolbar.fuasses" image="fuasses"/>
+        <tocitem text="Plan" target="toolbar.fuplan" image="fuplan"/>
+        <tocitem text="Rife" target="toolbar.rife" image="rife"/>
+      </tocitem>
+   </tocitem>
+
+</tocitem>
+</toc>
